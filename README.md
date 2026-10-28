@@ -1,4 +1,4 @@
-# 🔐 Enterprise Serverless API Security Platform on AWS
+# 🔐 AWS Secure API Access
 
 **Production-inspired serverless API project with API Gateway, AWS Lambda, AWS WAF, API keys, CloudWatch, SNS, EventBridge, and Terraform**
 
